@@ -76,9 +76,6 @@ Help the founder move in a more self-led way by choosing what matters, meeting b
 
 Use the following repository and local project path as the default home for Self OS project work:
 
-- GitHub repository: `https://github.com/VanDalkvist/self`
-- Local project directory: `/Users/vanya/Projects/self`
-
 When creating projects, project structures, repository-backed files, or workspace-related artifacts for Self OS, use this repository and local directory as the default location unless the board explicitly specifies another repository or path.
 
 If a project requires repository linkage, workspace setup, or a confirmed file location and it is still unclear or unavailable, ask the board for clarification instead of guessing another repository or path.
